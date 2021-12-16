@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Prasctos-1-master\Prasctos-1-master\Library12\obj\Debug\Library_4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Prasctos-1-master\Prasctos-1-master\Library12\obj\Debug\Library_4.csproj.CoreCompileInputs.cache
